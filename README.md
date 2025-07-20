@@ -1,0 +1,2 @@
+# FocusTuner
+動的に情報量をコントロールするBGMとかPodcastなんかを流す
